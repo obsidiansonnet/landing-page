@@ -1,3 +1,5 @@
+## CSS Foundations Project: Landing Page
+
 - **Project Summary:** This project is part of The Odin Project. This project involved using HTML and CSS to replicate a particular layout design, making a non-interactive landing page for desktop. The project required application of various styling and layout rules, primarily Flexbox, covered in the HTML and CSS foundations.
 
 - **Key Features:** The web-page uses Flexbox to layout and align all its elements, to achieve as much flexibility in design as possible but using only the concepts learnt leading up to this project. While the page does not use Media Queries for mobile-specific layouts, it utilizes fluid containers and wrapping to adapt to different screen sizes.
@@ -14,7 +16,8 @@
 **What I would like to improve**: 
 - While I managed to complete this project, the process was not smooth. I was not able to plan out or visualize the layout effectively before I began coding, as in I had a sense of what I would do but not the clarity with which I can begin coding and complete it smoothly without having to think about what I was doing and what I should do next. As a result, on several instances, after being within a layer of a section, I felt lost about what I should do next or at what layer I am. I would like to be able to organize my thoughts about the project better before I delve into coding.
 	    
-- **Image Credits**
+**Image Credits**
+
 	- Photo by [Kristaps Ungurs](https://unsplash.com/@kristapsungurs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/aerial-view-of-a-forest-clearing-with-a-swampy-area-MEjgD0XqZ2I?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 	
     - Photo by [Ivan Stepanov](https://unsplash.com/@evil_bumblebee?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/a-river-with-trees-and-grass-LN99GsoBrPQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
